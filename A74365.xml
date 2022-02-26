@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for selling the fee-farm rents belonging to the Commonwealth of England, formerly payable to the crown of England, dutchy of Lancaster, and dutchy of Cornwal. Die Lunæ, undecimo Martii, 1649. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74365</idno>
+            <idno type="STC">Thomason E1060_87</idno>
+            <idno type="STC">ESTC R208827</idno>
+            <idno type="EEBO-CITATION">99867748</idno>
+            <idno type="PROQUEST">99867748</idno>
+            <idno type="VID">120071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120071)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[87])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for selling the fee-farm rents belonging to the Commonwealth of England, formerly payable to the crown of England, dutchy of Lancaster, and dutchy of Cornwal. Die Lunæ, undecimo Martii, 1649. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 737-744, [i.e. 11] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649 [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 6U2: the last word of first line of text: 'as-'; first word of line below initial: 'Commonwealth'; last word of last full line of text: 'Common-'.</note>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Signatures: 6U⁴ 6X² .</note>
+                  <note>Ornament on t.p.; initial letter; text in black letter.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Farm rents --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:120071:1" rendition="simple:additions"/>
+            <p>AN ACT For ſelling The Fee-farm Rents Belonging to The Commonwealth of ENGLAND, Formerly payable to the Crown of <hi>England,</hi> Dutchy of <hi>Lancaſter,</hi> and Dutchy of <hi>Cornwal.</hi>
+            </p>
+            <figure/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Die Lunae, undecimo Martii, 1649.</p>
+                        <p>
+                           <hi>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London:</hi> Printed by <hi>Edward Huſband</hi> and <hi>John Field,</hi> Printers to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:120071:2"/>
+            <pb n="737" facs="tcp:120071:2"/>
+            <head>AN ACT For ſelling the Fee-farm Rents Belonging to the Commonwealth of <hi>England,</hi> Formerly payable to the Crown of <hi>England,</hi> Dutchy of <hi>Lancaſter,</hi> and Dutchy of <hi>Cornwal.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Or ſupply of the Aſ<g ref="char:EOLhyphen"/>ſeſſments lated abated by Parliament, pre<g ref="char:EOLhyphen"/>venting of Free-quar<g ref="char:EOLhyphen"/>ter, carrying on of the War of <hi>Ireland,</hi> and for ſupplying the extraor<g ref="char:EOLhyphen"/>dinary expences of the Navy this preſent year, and other emer<g ref="char:EOLhyphen"/>gent Affairs of this Commonwealth, Be it Enacted by this preſent Parliament, and by Authority thereof, That all the Fee-farm Rents, Tenths or Rents reſerved, Dry-rents, Hundreds, Liberties, Bailywicks, Reſervations, Conditions, Franchiſes and Pen<g ref="char:EOLhyphen"/>tions, other then ſuch Tenths and Pentions as are ſetled upon Truſtees by the Act entituled, <hi>An Act for providing Maintenance for Preaching Miniſters, and other Pious Uſes,</hi> iſſuing out of any Manors, Lands, Tenements or other Hereditaments be<g ref="char:EOLhyphen"/>ing within <hi>England, Wales,</hi> and the Town of <hi>Ber<g ref="char:EOLhyphen"/>wick</hi> upon <hi>Tweed,</hi> belonging to the Common<g ref="char:EOLhyphen"/>wealth
+<pb n="738" facs="tcp:120071:3"/>
+of <hi>England,</hi> and heretofore due and pay<g ref="char:EOLhyphen"/>able unto any King or Queen of <hi>England,</hi> Prince of <hi>Wales,</hi> Duke of <hi>Lancaſter,</hi> Duke of <hi>Cornwal,</hi> Earl of <hi>Cheſter,</hi> or any of them, and not lawful<g ref="char:EOLhyphen"/>ly granted away from them, or by them, ac<g ref="char:EOLhyphen"/>cording to the Laws of this Nation, at or before the Firſt day of <hi>January, Anno Dom.</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty and one, be and are hereby veſted, ſetled, adjudged and deemed to be, and are hereby in the real and actual poſſeſſion and ſeiſin of <hi>Thomas Coke</hi> of <hi>Pedmarſh</hi> in the County of <hi>Eſſex,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Boſevile</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Sparrow</hi> of <hi>Geſtrop</hi> in the County of <hi>Eſſex,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Kenrick</hi> of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> in the County of <hi>Kent,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ralph Harriſon</hi> of the City of <hi>London,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Scot</hi> of the Inner-Temple <hi>London,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Steel</hi> 
+               <abbr>Eſq</abbr> Recorder of <hi>London, Silvanus Taylor</hi> of <hi>Weſtminſter,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Hubbard</hi> of <hi>Moorfields</hi> in the County of <hi>Middleſex,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Cornelius Coke</hi> of the Borough of <hi>Southwark,</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Henry Hol<g ref="char:EOLhyphen"/>croft</hi> of <hi>Longacre</hi> in the County of <hi>Middleſex, John Hunt</hi> of <hi>London</hi> Gent. Sir <hi>Edward Barkham</hi> Ba<g ref="char:EOLhyphen"/>ronet, Sir <hi>William Roberts, John Humphreys</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Ayres</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John White</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>James Stockal</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Edward Creſſet</hi> Gent. Sir <hi>Richard Saltonſtal</hi> Knight, <hi>Daniel Searl</hi> Merchant, <hi>Nicholas Lam<g ref="char:EOLhyphen"/>priere</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Nicholas Bond</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Sidenham</hi> 
+               <abbr>Eſq</abbr> and <hi>Robert Fenwick</hi> 
+               <abbr>Eſq</abbr> the Survivors and Sur<g ref="char:EOLhyphen"/>vivor of them, their Heirs and Aſſigns, Any Law, Statute, Vſage or Cuſtom to the contrary in any wiſe notwithſtanding. Nevertheleſs, upon truſt and confidence that the ſaid <hi>Thomas Coke,</hi> and other the perſons aforenamed, or any five or more of them, ſhall have, hold and enjoy all and ſingular the premiſes and every of them, ſubject to ſuch truſt and uſes as by this Act is,
+<pb n="739" facs="tcp:120071:3"/>
+and by the Authority of Parliament further ſhall be declared and appointed, and ſhall diſpoſe of the ſame accordingly. And be it further En<g ref="char:EOLhyphen"/>acted by the Authority aforeſaid, That it ſhall and may be lawful to and for the ſaid <hi>Thomas Coke,</hi> and other the perſons beforenamed as Truſtees, or any five or more of them, to put to ſale, contract, ſell and convey all and every the premiſes unto any perſon or perſons, Bodies Politique or Corporate, their Heirs, Succeſſors and Aſſigns, as ſhall be Purchaſer or Purcha<g ref="char:EOLhyphen"/>ſers thereof, or of any part or parcel thereof, by ſuch Deed or Deeds, Writing or Writings, Con<g ref="char:EOLhyphen"/>veyance or Conveyances under their Hands and Seals as ſhall be convenient, to the ſeveral Ca<g ref="char:EOLhyphen"/>ſes and Titles of ſuch Purchaſer or Purcha<g ref="char:EOLhyphen"/>ſers, their Heirs, Succeſſors and Aſſigns re<g ref="char:EOLhyphen"/>ſpectively, upon ſuch particular, or certificate and value as ſhall be certified unto them from and by the Clerk of the Pipe, and the reſpective Auditors before whom the ſame or any part thereof is in charge reſpectively. Provided, That the ſaid Truſtees ſhall not Treat or Contract with any perſon or perſons, Bodies Politique or Corpo<g ref="char:EOLhyphen"/>rate, other then with the immediate Tenant or Tenants of the premiſes which he or they hold, for the ſpace of Thirty days, to be accounted from the Firſt day of <hi>April,</hi> One thouſand ſix hundred and fifty. And it is further Enacted, That the ſaid Truſtees ſhall not ſell any of the premiſes under the rate of Eight years Pur<g ref="char:EOLhyphen"/>chaſe, according to the Certificate made unto them as aforeſaid; and that all ſums of Money ſo contracted for, ſhall be paid in maner follow<g ref="char:EOLhyphen"/>ing; that is to ſay, Three pence upon every pound ſo contracted for, preſently at the making
+<pb n="740" facs="tcp:120071:4"/>
+of the ſaid Contract, which ſhall be allowed in part of the ſum contracted for, to be diſtributed amongſt the ſaid Truſtees, Contractors, Trea<g ref="char:EOLhyphen"/>ſurers, Regiſter and Comptroller, in lieu of their Salaries for themſelves and their Clerks ap<g ref="char:EOLhyphen"/>pointed by this Act, in ſuch proportion as the Committee for Obſtructions conſtituted by this Act ſhall appoint; and one moyety of the re<g ref="char:EOLhyphen"/>mainder within Thirty days after the ſaid Con<g ref="char:EOLhyphen"/>tract, and the other moyety within two moneths after the ſaid Thirty days: And if any default be made in any the ſaid payments, then the ſaid Contract to be <hi>Null</hi> and void, and the former ſums paid to be forfeited for the benefit of the Commonwealth; and if any ſhall pay in their whole ſum within Thirty days, Then to diſ<g ref="char:EOLhyphen"/>count to ſuch perſon after Eight pounds <hi>per Centum</hi> for the ſame. And it is further En<g ref="char:EOLhyphen"/>acted, That all perſon or perſons, Bodies Politique or Corporate, that ſhall purchaſe any of the premiſes (except before excepted) ſhall have all lawful ways and means to come by the ſame, as any King or Queen of <hi>England</hi> might have formerly recovered, diſtrained, or come by the ſame; be it by diſtraining in all ſuch Lands as the King might have diſtrained for the ſame, if the ſame had been then in arrear and due unto the King; or by the ways and means of the Exchequer, or otherwiſe in any lawful way or maner whatſoever; and ſhall have the be<g ref="char:EOLhyphen"/>nefit of all forfeitures, <hi>Nomine penae's,</hi> advantage of diſtreſſes, liberties and powers to diſtrain, and to detain, ſell or diſpoſe of the ſame, as fully and as largely as any King might have had or done, if the ſame had been then in ar<g ref="char:EOLhyphen"/>rear or due unto him; and ſhall have the like
+<pb n="741" facs="tcp:120071:4"/>
+Action, Suit and means for recovery of the ſame, by reaſon or pretext of any Grant, Co<g ref="char:EOLhyphen"/>venant, Reſervation, Proviſion or Condition, for recovery and levying of the ſame, as any King might have had if the ſame had been then in arrear and due unto ſuch King: And all Officers are hereby authorized and required to award and allow proceſs and proceedings therein accordingly. And be it further Enact<g ref="char:EOLhyphen"/>ed by the Authority aforeſaid, That <hi>Henry Col<g ref="char:EOLhyphen"/>bron</hi> ſhall be Regiſter, and have the cuſtody and keeping of all Certificates and Particulars upon which any Contract ſhall be made; and the Contract thereupon made, and the Coun<g ref="char:EOLhyphen"/>terpart of ſuch Conveyance which ſhall be ſealed and executed by ſuch Purchaſer, and Copies of Records, and other things concern<g ref="char:EOLhyphen"/>ing the ſame, that ſhall at any time be ſent and delivered unto him or the ſaid Truſtees; and after full payment of the ſeveral ſums of mo<g ref="char:EOLhyphen"/>ney, according to the maner aforeſaid, ſhall or may deliver unto the ſaid Purchaſer or Pur<g ref="char:EOLhyphen"/>chaſers true Copies thereof; which being teſti<g ref="char:EOLhyphen"/>fied under the Hands and Seals of the ſaid Truſtees, or any five or more of them, ſhall be a ſufficient Teſtimony in Evidence, as any Deed enrolled by the Statute of the Twenty ſeventh of <hi>Henry</hi> the Eighth, for Inrolment of Deeds is or ought to be; And the ſaid Regiſter ſhall cauſe one or more able and ſufficient Clerk, ſuch as the ſaid Truſtees ſhall approve of, to be attending on them at all their meetings, and to enter their Orders and Proceedings, and to ob<g ref="char:EOLhyphen"/>ſerve and obey ſuch Commands and Directions concerning the premiſes, as they or any five or more of them ſhall direct and appoint. And
+<pb n="742" facs="tcp:120071:5"/>
+the ſaid Books of Entries ſhall remain in the cuſtody of the ſaid Regiſter. Provided, That no Copies of the ſaid Entries be taken out of the ſaid Book, but by the ſaid Regiſter or his Deputy, or the ſaid Clerk, who are to have the uſe of them for that purpoſe; And that the ſaid Regiſter and his Deputy for the time being, and the ſaid Clerk, ſhall ſeverally take before three of the ſaid Truſtees, the Oath hereafter appointed. And be it further Enacted, That none of the ſaid Truſtees, or any other to their or any of his or their uſe or uſes, or in truſt for them or any of them directly or indirectly, ſhall or do purchaſe the ſaid premiſes, or any part thereof, upon forfeiture for the uſe of the Com<g ref="char:EOLhyphen"/>monwealth, of his or their Eſtate ſo purchaſed, and the moneys paid or to be paid for the ſame, except they be at the paſſing of this Act very Tenants of the Lands, Tenements or He<g ref="char:EOLhyphen"/>reditaments out of which the ſaid Rents are iſſuing, who thereupon may be Purchaſers, according as ſhall be ordered and appointed by the Committee of Obſtructions hereafter conſtituted and appointed. And be it further Enacted, for removing Obſtructions that may ariſe in and concerning the premiſes, or any part of them, That the perſons nominated to be a Committee for removing of Obſtru<g ref="char:EOLhyphen"/>ctions in the ſale of the Lands of the late Deans, Deans and Chapters, by an Act of this preſent Parliament, publiſhed in Print the Twentieth of <hi>June,</hi> One thouſand ſix hundred forty and nine, or any five or more of them, be and are hereby impowered and authorized to be a Committee for removing Obſtructions in the ſale of the premiſes here<g ref="char:EOLhyphen"/>by
+<pb n="743" facs="tcp:120071:5"/>
+appointed to be ſold; and in reference thereunto, ſhall have and exerciſe all and eve<g ref="char:EOLhyphen"/>ry the Powers given to any Committee of Obſtructions by any Ordinance or Act of this preſent Parliament. And be it further En<g ref="char:EOLhyphen"/>acted by the Authority aforeſaid, That the Committee for the publique Revenue, during the time the ſaid premiſes or any part of them ſhall remain unfold, ſhall and may proceed in gathering, obtaining and receiving of the ſaid Fee-farm Rents and premiſes, in ſuch maner, and by ſuch means as formerly they have uſed to do. And it is further Enacted, That Sir <hi>John Wollaſton</hi> Knight, Alderman of the City of <hi>London, Thomas Andrews, John Dethick</hi> and <hi>Francis Allen,</hi> Aldermen of the ſaid City, ſhall be Treaſurers for the ſaid moneys ariſing by vertue of this Act; and that they or any two of them are hereby impowered and authorized to receive all ſuch ſum and ſums of money, as from time to time ought to be paid in to the Treaſury by vertue of this Act, which ſhall be iſſued and paid according to ſuch Rules, Directions and Inſtructions as from time to time they ſhall receive from the Parliament, or by authority thereof. And be it further Enacted, That <hi>Henry Robinſon</hi> Merchant, ſhall be Comptroller of all Entries, Receipts and Payments which ſhall be made to or by the ſaid Treaſurers; and ſhall have power and authority by himſelf or his ſufficient Deputies, to keep accompt of all Entries, Receipts, Payments, Defalkations and Diſcounts whatſoever, which ſhall be made unto or by the ſaid Treaſurers: And the ſaid Comptrol<g ref="char:EOLhyphen"/>ler and his Deputies ſhall execute the ſaid place
+<pb n="744" facs="tcp:120071:6"/>
+of Comptroller in relation to the ſaid premiſes, according to ſuch Inſtructions and Directions as are given to the Comptroller for the Re<g ref="char:EOLhyphen"/>ceipts of Biſhops Lands, by an Ordinance of Parliament of the ſixteenth of <hi>November,</hi> One thouſand ſix hundred forty and ſix, and ac<g ref="char:EOLhyphen"/>cording to ſuch further Inſtructions as ſhall from time to time be given by Parliament, or authority thereof. And be it further Enacted by the authority aforeſaid, That the ſaid Re<g ref="char:EOLhyphen"/>giſter and Comptroller ſhall take the ſeveral Oathes reſpectively expreſſed in an Act of this preſent Parliament, intituled, <hi>An Act of the Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled, for ſale of the Honors, Manors and Lands heretofore belonging to the late King, Queen and Prince.</hi> And it is further Enacted by the authority aforeſaid, That <hi>Worceſter-houſe,</hi> or ſome other place, as the ſaid Truſtees ſhall think fitting, ſhall be the place where the ſaid ſe<g ref="char:EOLhyphen"/>veral perſons ſhall and may tranſact the ſaid ſervice, and put in execution this Act.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <head>Die Lunae, undecimo Martii, <hi>1649.</hi>
+            </head>
+            <p>ORdered by the Parliament, That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+            <pb facs="tcp:120071:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
